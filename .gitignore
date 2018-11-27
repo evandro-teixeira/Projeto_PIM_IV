@@ -1,0 +1,6 @@
+.settings/
+output/
+Debug/
+.cproject
+.project
+core
